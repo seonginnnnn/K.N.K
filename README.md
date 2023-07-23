@@ -1,2 +1,2 @@
 # K.N.K C PROGRAMMING
-![123](https://github.com/seonginnnnn/K.N.K/assets/76873504/bb4fe2af-a04f-4707-922f-f71869811abe)
+<img src="https://github.com/seonginnnnn/K.N.K/assets/76873504/573ebd94-cde3-4155-ade8-e3d01877284f"  width="300" height="370">
